@@ -1,0 +1,6 @@
+{
+  "name": "DevSpace",
+  "description": "DevSpace is a modern developer-focused AI SaaS platform with intuitive dashboards, deep analytics, a natural-language AI coding assistant, team task organizers, and customizable account preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
